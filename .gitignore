@@ -51,3 +51,4 @@ node_modules/
 # Jupyter / Experiments
 # =========================
 .ipynb_checkpoints/
+venv
