@@ -1,0 +1,16 @@
+# Core backend
+flask==3.0.0
+flask-cors==4.0.0
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# LLM + RAG
+openai==1.14.3
+sentence-transformers==2.6.1
+faiss-cpu==1.8.0
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.2

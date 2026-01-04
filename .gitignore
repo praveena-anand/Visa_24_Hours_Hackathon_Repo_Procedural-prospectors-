@@ -1,0 +1,53 @@
+# =========================
+# Python / Virtual Env
+# =========================
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Data & Reports (IMPORTANT)
+# =========================
+backend/data/**/*.csv
+backend/data/**/*.xlsx
+backend/data/**/*.xls
+backend/data/**/*.pdf
+
+# If you want to keep folder structure but not files
+backend/data/**/.gitkeep
+
+# =========================
+# RAG / Vector Stores
+# =========================
+backend/rag/**/*.faiss
+backend/rag/**/*.index
+backend/rag/**/*.pkl
+backend/rag/**/chroma*
+backend/rag/**/vector*
+
+# =========================
+# Logs & Temp
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Node (if added later)
+# =========================
+node_modules/
+
+# =========================
+# Jupyter / Experiments
+# =========================
+.ipynb_checkpoints/
