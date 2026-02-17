@@ -218,5 +218,3 @@ This project demonstrates how **Generative AI and agentic reasoning** can fundam
 Visa 24-Hour Hackathon
 
 
-
-Just tell me what you need next.
